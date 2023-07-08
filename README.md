@@ -1,0 +1,2 @@
+- Korean student
+- studying java_algorithem
