@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=mingyu kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=mingyu kim&fontSize=90" />
 </div>
 
 <!--내용 부분-->
