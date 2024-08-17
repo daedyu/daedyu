@@ -1,4 +1,8 @@
 <!--타이틀 부분-->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=mingyu kim&fontSize=90" />
 </div>
