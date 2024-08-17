@@ -1,10 +1,12 @@
 <!--타이틀 부분-->
-<a href="https://github.com/devxb/gitanimals" align="center">
-  <img src="https://render.gitanimals.org/farms/daedyu"/>
-</a>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=mingyu kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=mingyu%20kim&fontSize=90" />
+</div>
+
+<div>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/daedyu"/>
+  </a>
 </div>
 
 <!--내용 부분-->
