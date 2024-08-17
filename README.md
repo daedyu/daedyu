@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals" align="center">
   <img src="https://render.gitanimals.org/farms/daedyu"/>
 </a>
 
