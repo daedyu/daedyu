@@ -1,6 +1,12 @@
 <!--타이틀 부분-->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=mingyu%20kim&fontSize=90" />
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/daedyu?pet-id=612622341791920928"
+    width="600"
+    height="300"
+  />
+</a>
 </div>
 
 <div align="center">
