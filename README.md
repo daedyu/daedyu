@@ -13,7 +13,5 @@
 </a>
 </div>
 
-<h3 align="center">Github</h3>
-
 ![KMG의 GitHub stats](https://github-readme-stats.vercel.app/api?username=daedyu&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daedyu&layout=donut)
