@@ -32,7 +32,7 @@ mail: [legolove08@naver.com](mailto:legolove08@naver.com)
 - 배포 환경 및 Dev, Prod 서버 구축
 - 모놀리식 -> msa 설계 전환 주도
 
-[도담도담 모바일](https://github.com/Team-B1ND/dodamdodam-server)
+[도담도담 모바일](https://github.com/Team-B1ND/dodamdodam-app)
 - 앱인 서비스 모바일 구축
 - react native 전환
 
