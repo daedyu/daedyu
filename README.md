@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=mingyu%20kim&fontSize=90" />
 </div>
 
-# Backend Engineer
-## 안녕하세요. 백엔드 엔지니어 ****김민규**** 입니다.
+# Developer
+## 안녕하세요. 개발자 ****김민규**** 입니다.
 
 phone: [010-7131-5417](tel:01071315417)
 
