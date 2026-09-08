@@ -38,7 +38,7 @@ mail: [legolove08@naver.com](mailto:legolove08@naver.com)
 - react native 전환
 
 PANG 스트리밍 서버
-- webrtc -> rtmp -> ll-hls 변환 인코딩 프로그램 구축
+- web canvas -> rtmp -> ll-hls 변환 인코딩 프로그램 구축
 - 인코딩 서비스 제작
 - gstreamer 변환 파이프라인 구축
 ---
